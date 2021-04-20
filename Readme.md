@@ -1,11 +1,5 @@
 # Django based movie recommender system
-> https://awesome-movie-recommender.herokuapp.com
-
-![GitHub stars](https://img.shields.io/github/stars/rajaprerak/movie_recommender) 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/movie_recommender/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://awesome-movie-recommender.herokuapp.com/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
+> 
 ### Website Preview
 #### Home Page
 <img src="website_images/HomePage.png" width="900">
@@ -71,14 +65,6 @@ $ python manage.py runserver
 #### Step 3
 
 - 🔃 Create a new pull request.
-
-## Team ✨
-
-| <a href="https://rajaprerak.github.io" target="_blank">**Prerak Raja**</a>
-| :---: |
-| [![Prerak Raja](https://github.com/rajaprerak.png?size=100)](https://rajaprerak.github.io)    
-| <a href="https://github.com/rajaprerak" target="_blank">`github.com/rajaprerak`</a>
-
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)

@@ -9,6 +9,9 @@ class Location(models.Model):
     title = models.CharField(max_length=200)
     category = models.CharField(max_length=100)
     location_logo = models.FileField()
+    description = models.TextField(null=True,blank=True)
+    lalitude = models.CharField(max_length=50,null=True,blank=True)
+    longitude = models.CharField(max_length=50,null=True,blank=True)
 
     def __str__(self):
         return self.title
